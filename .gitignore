@@ -1,0 +1,4 @@
+#ignor gulp file
+gulp_runner/node_modules/
+.idea/
+node_modules/
